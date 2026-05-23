@@ -4,3 +4,5 @@ build/
 *.so
 *.node
 third-party/*/build
+hermes-host/build/
+hermes-host/.cache/
